@@ -9,4 +9,5 @@ package com.javakc;
 public class TestGit {
     private String name;
     private String password;
+    private int age;
 }
