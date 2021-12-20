@@ -6,4 +6,5 @@ public class TestGit1 {
     private int age;
     private String sex;
     private String A;
+    private String B;
 }
