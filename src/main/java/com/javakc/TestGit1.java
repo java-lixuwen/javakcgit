@@ -5,4 +5,5 @@ public class TestGit1 {
     private String passwd;
     private int age;
     private String sex;
+    private String A;
 }
