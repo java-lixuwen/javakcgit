@@ -8,4 +8,5 @@ public class TestGit1 {
     private String A;
     private String B;
     private String C;
+    private String D;
 }
